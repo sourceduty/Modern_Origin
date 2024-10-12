@@ -8,6 +8,14 @@
 
 Modern Origin also provides context for users interested in exploring modern methodologies by detailing the historical influences and evolution behind them. It aims to spark curiosity and appreciation for the origins of human problem-solving, encouraging users to consider how ancient approaches continue to resonate in present-day systems. By connecting modern techniques with their historical roots, this GPT fosters a holistic view of human progress, illustrating how time-tested practices and principles have been adapted and refined to meet contemporary needs across various fields. Additionally, it can generate visual depictions of these originating methodologies using DALL-E, offering users an engaging way to explore and visualize the history of human methodologies.
 
+```
+Find the origins of modern methodologies.
+Find the origins of modern scientific methods.
+Find the origins of modern programming methods.
+Print the cheat sheet for this custom GPT.
+Find the origins of modern construction methodologies.
+```
+
 #
 
 ![Bones](https://github.com/user-attachments/assets/8c5cef1b-a779-419e-9441-99f16900695c)
