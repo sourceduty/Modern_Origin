@@ -18,6 +18,8 @@ Modern Origin also provides context for users interested in exploring modern met
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Science](https://github.com/sourceduty/Science)
+<br>
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
